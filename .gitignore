@@ -1,0 +1,29 @@
+# Environment variables
+.env
+*.env
+backend/.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.vite/
+
+# Database & Uploads
+credify.db
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

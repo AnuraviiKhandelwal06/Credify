@@ -1,0 +1,36 @@
+Date,Description,Amount,Type,Balance
+2026-01-01,Monthly Salary - TechCorp Ltd,65000.00,CREDIT,65000.00
+2026-01-02,Apartment Rent Payment,18000.00,DEBIT,47000.00
+2026-01-03,Supermarket Grocery Store,3450.50,DEBIT,43549.50
+2026-01-05,Electricity & Water Utility Bill,2200.00,DEBIT,41349.50
+2026-01-07,Cafeteria & Lunch Combo,450.00,DEBIT,40899.50
+2026-01-10,Fuel Station Filling,2500.00,DEBIT,38399.50
+2026-01-12,Freelance Graphic Design Payment,8500.00,CREDIT,46899.50
+2026-01-15,Netflix & Spotify Subscription,899.00,DEBIT,46000.50
+2026-01-18,Electronics & Accessories Shop,4200.00,DEBIT,41800.50
+2026-01-20,Restaurant Dining Out,1850.00,DEBIT,39950.50
+2026-01-25,Wi-Fi & Broadband Bill,1199.00,DEBIT,38751.50
+2026-01-28,Pharmacy & Health Store,650.00,DEBIT,38101.50
+2026-02-01,Monthly Salary - TechCorp Ltd,65000.00,CREDIT,103101.50
+2026-02-02,Apartment Rent Payment,18000.00,DEBIT,85101.50
+2026-02-04,Supermarket Grocery Store,3820.00,DEBIT,81281.50
+2026-02-06,Electricity & Utility Bill,2400.00,DEBIT,78881.50
+2026-02-09,Fuel & Auto Service,3100.00,DEBIT,75781.50
+2026-02-12,Cash Withdrawal ATM,5000.00,DEBIT,70781.50
+2026-02-14,Valentine Dinner & Flowers,2950.00,DEBIT,67831.50
+2026-02-17,E-commerce Clothing Purchase,3499.00,DEBIT,64332.50
+2026-02-20,Freelance Consulting Payment,12000.00,CREDIT,76332.50
+2026-02-24,Mobile Recharge & Bill,799.00,DEBIT,75533.50
+2026-02-27,Gym & Fitness Membership,1500.00,DEBIT,74033.50
+2026-03-01,Monthly Salary - TechCorp Ltd,65000.00,CREDIT,139033.50
+2026-03-02,Apartment Rent Payment,18000.00,DEBIT,121033.50
+2026-03-05,Supermarket Grocery Store,4100.00,DEBIT,116933.50
+2026-03-08,Electricity & Water Utility Bill,2150.00,DEBIT,114783.50
+2026-03-11,Online Course Subscription,2499.00,DEBIT,112284.50
+2026-03-14,Fuel Station Filling,2600.00,DEBIT,109684.50
+2026-03-17,Dining & Social Gathering,2100.00,DEBIT,107584.50
+2026-03-20,Dividend Interest Credit,1250.00,CREDIT,108834.50
+2026-03-22,Home Appliance Purchase,6800.00,DEBIT,102034.50
+2026-03-25,Wi-Fi & Broadband Bill,1199.00,DEBIT,100835.50
+2026-03-28,Pharmacy & Medical Care,920.00,DEBIT,99915.50
+2026-03-30,Weekend Trip & Travel Expenses,5500.00,DEBIT,94415.50
